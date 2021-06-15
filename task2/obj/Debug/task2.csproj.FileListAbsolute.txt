@@ -1,0 +1,10 @@
+C:\Users\bayer\RiderProjects\task2\task2\bin\Debug\task2.exe.config
+C:\Users\bayer\RiderProjects\task2\task2\bin\Debug\task2.exe
+C:\Users\bayer\RiderProjects\task2\task2\bin\Debug\task2.pdb
+C:\Users\bayer\RiderProjects\task2\task2\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Users\bayer\RiderProjects\task2\task2\obj\Debug\task2.Properties.Resources.resources
+C:\Users\bayer\RiderProjects\task2\task2\obj\Debug\task2.csproj.GenerateResource.cache
+C:\Users\bayer\RiderProjects\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\bayer\RiderProjects\task2\task2\obj\Debug\task2.exe
+C:\Users\bayer\RiderProjects\task2\task2\obj\Debug\task2.pdb
+C:\Users\bayer\RiderProjects\task2\task2\obj\Debug\task2.Form1.resources
